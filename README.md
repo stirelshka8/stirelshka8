@@ -7,5 +7,7 @@
 
 ## I am studying at the online University of Netology in the direction of "Python developer". Programming is my hobby to which I devote most of my free time.
 
+<div style="text-align: center;">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stirelshka8&show_icons=true&theme=dark)
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stirelshka8&show_icons=true&theme=dark)
